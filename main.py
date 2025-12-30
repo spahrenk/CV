@@ -120,6 +120,13 @@ def generate_bibliography(
                 content
             )
 
+            # Convert [#](URL) to HTML with no underline for better browser display
+            content = re.sub(
+                r'\[#\]\((https?://[^)]+)\)',
+                r'<a href="\1" style="text-decoration: none;">#</a>',
+                content
+            )
+
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(content)
 

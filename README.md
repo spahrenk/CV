@@ -173,7 +173,7 @@ Summer Student  (June-Aug., 1987\)
 
 * Dislocations and strain-relaxation analysis of epitaxial layers.
 
-* Materials and device characterization techniques.
+* Materials and device engineering and characterization.
 
 * Semiconductor crystal growth.
 
@@ -222,15 +222,15 @@ Summer Student  (June-Aug., 1987\)
 **Book Chapter**
 * S. P. Ahrenkiel, "Diffraction and imaging of ordered semiconductors", in A. Mascarenhas (Ed.), <u>Spontaneous ordering in semiconductor alloys</u>, Kluwer Academic, 2002, pp. 195–233.[#](https://doi.org/10.1007/978-1-4615-0631-7_7)
 
-**Intellectual Property**
+**Inventions**
 
-* Patent Application (NREL): K. Alberi, C.L. Stender, S.P. Ahrenkiel, “Strain Balanced Direct Bandgap Aluminum Indium Phosphide Quantum Wells for Light Emitting Diodes”, U.S, 2022/0271194, Aug. 2023\.
+* Kirstin Alberi, Christopher Leo STENDER, and Scott Phillip AHRENKIEL, "Patent application: Strain balanced direct bandgap aluminum indium phosphide quantum wells for light emitting diodes", (2022). <a href="https://patents.google.com/patent/US20220271194A1/en?oq=US20220271194" style="text-decoration: none;">#</a>
 
-* Patent Application (NREL): M. W. Wanlass , S. P. Ahrenkiel, “Method for Achieving Device-Quality, Lattice-Mismatched, Heteroepitaxial Active Layers”, U.S. 2006/0048700, Mar. 2006\.
+* Phil Ahrenkiel and Nathan Smaglik, "Invention disclosure: Plasma-enhanced metalorganic chemical vapor deposition of aluminum", (2017).
 
-* Invention Disclosure (SDSMT): Phil Ahrenkiel, Srujan Mishra, “Modified electrospinning process for controlled deposition of nanofibers by focused electric field”, Mar. 2013\.
+* Phil Ahrenkiel and Srujan Mishra, "Invention disclosure: Modified electrospinning process for controlled deposition of nanofibers by focused electric field", (2013).
 
-* Invention Disclosure (SDSMT): Phil Ahrenkiel, Nathan Smaglik, “Plasma-enhanced metalorganic chemical vapor deposition of aluminum”, July 2017\.
+* Mark W. Wanlass and S. Phillip Ahrenkiel, "Patent application: Method for achieving device-quality, lattice-mismatched, heteroepitaxial active layers", (2006) 1–12. <a href="https://patents.google.com/patent/US20060048700A1/en?oq=US20060048700A1" style="text-decoration: none;">#</a>
 
 
 **Publications**

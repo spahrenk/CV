@@ -45,3 +45,6 @@ python3 main.py -b papers.bib -c elsev.csl -o papers.md
 python3 main.py -b procs.bib -c elsev.csl -o procs.md
 python3 main.py -b books.bib -c elsev.csl -o books.md
 python3 main.py -b chaps.bib -c elsev.csl -o chaps.md
+python3 main.py -b invents.bib -c elsev.csl -o invents.md
+
+When I view the output markdown files (e.g., papers.md) in a browser (Chrome), the "#" link text at the end of each citation is underlined. Can you fix that?
