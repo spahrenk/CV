@@ -1,5 +1,5 @@
 **Phil Ahrenkiel**  
-current address: Arvada, Colorado 80005  
+address: Arvada, Colorado 80005  
 cell: 720-988-6627; e-mail: spahrenk@gmail.com
 
 **Education**
@@ -24,7 +24,7 @@ Computational Scientist (Jun. 2023-Oct. 2025\)
 
 * My main project was development of a heat-pump-water-heater simulation [library](https://github.com/bigladder/HPWHsim) used by the California Energy Commission for compliance calculations. I generalized and restructured large segments of the code, with emphasis on physical rigor, while maintaining hundreds of unit and function tests. I implemented a formal data representation to allow external entry of manufacturer models as JSON. I added independently an interactive suite of graphical analysis apps using [Plotly Dash](https://plotly.com/), used to refine simulation parameters for new manufacturer models, and created a header-only [library](https://github.com/SPAhrenTech/unity) for a physical-units agnostic API.
 
-* I created a [data-conversion library](https://github.com/bigladder/CUACToolMiner) for users of the legacy California Utility Allowance Calculator Access databases to export data as .csv.
+* I created a [data-conversion library](https://github.com/bigladder/CUACToolMiner) for users of the legacy California Utility Allowance Calculator Access databases to extract data via SQL.
 
 * I added load-groups and other requested features to an [energy-resilience simulation](https://github.com/bigladder/erin) library, used for catastrophic analysis of large-scale installations (e.g., military bases, universities).
 
@@ -74,7 +74,7 @@ Assistant Professor (Aug 2006- Jul 2012\)
 
 * I proposed the acquisition of the high-resolution JEOL TEM instrument, and oversaw the design, excavation, and renovation of specialized laboratory space for mechanical isolation of the instrument.
 
-* I supported and advised student research through a university/DOE national laboratory [partnership](#doe_partnership_2007). We modified a home-built metalorganic chemical vapor deposition system to synthesize epitaxial films of III-V compound semiconductors engineered for multi-junction photovoltaics. For over a decade, the MOCVD system found numerous opportunities for student research and external collaboration, with extensive hardware and [software](https://github.com/SPAhrenTech/MOCVD_Lib) customization.
+* I supported and advised student research through a university/DOE national laboratory [partnership](#doe_partnership_2007). We modified a home-built metalorganic chemical vapor deposition system to synthesize epitaxial films of III-V compound semiconductors engineered for multi-junction photovoltaics. For over a decade, the MOCVD system was used for student research and external collaboration, with extensive hardware and [software](https://github.com/SPAhrenTech/MOCVD_Lib) customization. The inherint risks of MOCVD demanded attention to safety protocols and development of a hazard communication [system](https://github.com/SPAhrenTech/TGM_online).
 
 * We developed a computational method to extract alloy [compositions](https://doi.org/10.1017/S1431927612013761) of alloy films from energy-dispersive X-ray spectrometry. We also applied convergent-beam electron [diffraction](https://github.com/SPAhrenTech/CBED_fit) to metamorphic alloy films, to probe both composition and strain.
 
@@ -88,7 +88,7 @@ Senior Scientist I (2001-2006)
 
 * I designed and constructed a tunable light source to bias tandem solar cells during testing. 
 
-* I studied the recrystallization phase-change kinetics of hydrogenated amorphous Si on glass substrates for low-cost photovoltaic applications.
+* My team studied the recrystallization phase-change kinetics of hydrogenated amorphous Si on glass substrates for low-cost photovoltaic applications. Time-series data were
 
 * I supported the NREL Bioenergy Center by imaging carbon nanotubes and cellulose fibers used as templates for nanoparticle self-assembly.
 
@@ -179,9 +179,9 @@ Summer Student  (June-Aug., 1987\)
 
 * Vacuum system design and maintenance.
 
-* Scientific computer programming (C++, Objective C, Swift, MatLab, LabView, Igor, Digital Micrograph, Python).
+* Scientific computer programming (C++, Objective C, Swift, MatLab, LabView, Igor, Digital Micrograph, Python); IDEs: VSCode, Xcode, CLion
 
-* Experiment automation, digital image processing and computational data manipulation.
+* Experiment automation; digital image processing; computational analysis and simulation.
 
 * Mac OS, Windows, and Linux operating-system experience.
 
@@ -235,7 +235,7 @@ Summer Student  (June-Aug., 1987\)
 
 **Publications**
 
-
+<a id="precdiff_ord_paper"></a>
 1. Xavier Pasala, Nikhil Pokharel, Phil Ahrenkiel, Kirstin Alberi, Kamran Forghani, and Chris Stender, "Quantitative order‐parameter measurement in lattice‐mismatched AlInP using precession electron diffraction", *Journal of Microscopy* **284** (2021) 132–141.[#](https://doi.org/10.1111/jmi.13047)
 
 2. Jinyuan Liu, Lin Kang, Ishara Ratnayake, Phil Ahrenkiel, Steve Smith, and Congzhou Wang, "Targeting cancer cell adhesion molecule, CD146, with low-dose gold nanorods and mild hyperthermia disrupts actin cytoskeleton and cancer cell migration", *Journal of Colloid and Interface Science* **601** (2021) 556–569.[#](https://doi.org/10.1016/j.jcis.2021.05.144)
@@ -247,7 +247,7 @@ Summer Student  (June-Aug., 1987\)
 5. Karla L. Otterpohl, Brook W. Busselman, Ishara Ratnayake, Ryan G. Hart, Kimberly R. Hart, Claire M. Evans, Carrie L. Phillips, Jordan R. Beach, Phil Ahrenkiel, Bruce A. Molitoris, Kameswaran Surendran, and Indra Chandrasekar, "Conditional Myh9 and Myh10 inactivation in adult mouse renal epithelium results in progressive kidney disease", *JCI Insight* **5** (2020).[#](https://doi.org/10.1172/jci.insight.138530)
 
 6. Malini Mukherjee, Ishara Ratnayake, Madhusudhana Janga, Eric Fogarty, Shania Scheidt, Justin Grassmeyer, Jennifer deRiso, Indra Chandrasekar, Phil Ahrenkiel, Raphael Kopan, and Kameswaran Surendran, "Notch signaling regulates \<i\>Akap12\</i\> expression and primary cilia length during renal tubule morphogenesis", *The FASEB Journal* **34** (2020) 9512–9530.[#](https://doi.org/10.1096/fj.201902358RR)
-
+<a id="pemocvd_paper"></a>
 7. Nathan Smaglik, Nikhil Pokharel, and Phil Ahrenkiel, "Applications of plasma-enhanced metalorganic chemical vapor deposition", *Journal of Crystal Growth* **535** (2020) 125544.[#](https://doi.org/10.1016/j.jcrysgro.2020.125544)
 
 8. Ram Saraswat, Ishara Ratnayake, E. Celeste Perez, William M. Schutz, Zhengtao Zhu, S. Phillip Ahrenkiel, and Scott T. Wood, "Micropatterned biphasic nanocomposite platform for maintaining chondrocyte morphology", *ACS Applied Materials & Interfaces* **12** (2020) 14814–14824.[#](https://doi.org/10.1021/acsami.9b22596)
@@ -265,7 +265,7 @@ Summer Student  (June-Aug., 1987\)
 14. Nikhil Pokharel, Nathan Smaglik, Phil Ahrenkiel, Alessandro Giussani, Michael A. Slocum, and Seth M. Hubbard, "Orientations of Al4C3 and al films grown on GaAs substrates", *Materials Science in Semiconductor Processing* **98** (2019) 49–54.[#](https://doi.org/10.1016/j.mssp.2019.03.023)
 
 15. Ivana D. Vukoje, Enis S. Džunuzović, Suzana Dimitrijević, Scott Phillip Ahrenkiel, and Jovan M. Nedeljković, "Size‐dependent antibacterial properties of ag nanoparticles supported by amino‐functionalized poly(GMA‐ \<i\>co\</i\> ‐EGDMA) polymer", *Polymer Composites* **40** (2019) 2901–2907.[#](https://doi.org/10.1002/pc.25120)
-
+<a id="macrophage_paper"></a>
 16. Malini Mukherjee, Jennifer DeRiso, Karla Otterpohl, Ishara Ratnayake, Divya Kota, Phil Ahrenkiel, Indra Chandrasekar, and Kameswaran Surendran, "Endogenous notch signaling in adult kidneys maintains segment-specific epithelial cell types of the distal tubules and collecting ducts to ensure water homeostasis", *Journal of the American Society of Nephrology* **30** (2019) 110–126.[#](https://doi.org/10.1681/ASN.2018040440)
 
 17. Vesna Lazić, Katarina Mihajlovski, Ana Mraković, Erzsébet Illés, Milovan Stoiljković, S. Phil Ahrenkiel, and Jovan M. Nedeljković, "Antimicrobial activity of silver nanoparticles supported by magnetite", *Chemistry Select* **4** (2019) 1–8.[#](https://doi.org/10.1002/slct.201900628)
@@ -289,7 +289,7 @@ Summer Student  (June-Aug., 1987\)
 26. Marija Radoičić, Gordana Ćirić-Marjanović, Vuk Spasojević, Phil Ahrenkiel, Miodrag Mitrić, Tatjana Novaković, and Zoran Šaponjić, "Superior photocatalytic properties of carbonized PANI/TiO2 nanocomposites", *Applied Catalysis B: Environmental* **213** (2017) 155–166.[#](https://doi.org/10.1016/j.apcatb.2017.05.023)
 
 27. Ivana Smičiklas, Jelena Papan, Vesna Lazić, Davor Lončarević, S. Phillip Ahrenkiel, and Jovan M. Nedeljković, "Functionalized biogenic hydroxyapatite with 5-aminosalicylic acid – sorbent for efficient separation of Pb2+ and Cu2+ ions", *Journal of Environmental Chemical Engineering* **5** (2017) 3759–3765.[#](https://doi.org/10.1016/j.jece.2017.07.027)
-
+<a id="lateral_mod_AlInAs_paper"></a>
 28. Nan Zheng and S. Phillip Ahrenkiel, "Epitaxial nanowire formation in metamorphic GaAs/GaPAs short-period superlattices", *AIP Advances* **7** (2017).[#](https://doi.org/10.1063/1.4985550)
 
 29. Vladan Bajić, Biljana Spremo-Potparević, Lada Živković, Andrea Čabarkapa, Jelena Kotur-Stevuljević, Esma Isenović, Dušan Sredojević, Ivana Vukoje, Vesna Lazić, S. Phillip Ahrenkiel, and Jovan M. Nedeljković, "Surface-modified TiO2 nanoparticles with ascorbic acid: Antioxidant properties and efficiency against DNA damage in vitro", *Colloids and Surfaces B: Biointerfaces* **155** (2017) 323–331.[#](https://doi.org/10.1016/j.colsurfb.2017.04.032)
@@ -353,7 +353,7 @@ Summer Student  (June-Aug., 1987\)
 58. Luís Pinho and Maria J. Mosquera, "Photocatalytic activity of TiO2–SiO2 nanocomposites applied to buildings: Influence of particle size and loading", *Applied Catalysis B: Environmental* **134-135** (2013) 205–221.[#](https://doi.org/10.1016/j.apcatb.2013.01.021)
 
 59. Chia-Ming Wu, Monika Rathi, S. Phil Ahrenkiel, Ranjit T. Koodali, and Zhenqiang Wang, "Facile synthesis of MOF-5 confined in SBA-15 hybrid material with enhanced hydrostability", *Chemical Communications* **49** (2013) 1223.[#](https://doi.org/10.1039/c2cc38366g)
-
+<a id="flex_GaAs_paper"></a>
 60. Monika Rathi, S. P. Ahrenkiel, J. J. Carapella, and M. W. Wanlass, "A standards-based method for compositional analysis by energy dispersive x-ray spectrometry using multivariate statistical analysis: Application to multicomponent alloys", *Microscopy and Microanalysis* **19** (2013) 66–72.[#](https://doi.org/10.1017/S1431927612013761)
 
 61. Ivana Lj. Validžić, Nadica D. Abazović, S. Phillip Ahrenkiel, and Ivana A. Janković, "Structural and morphological dependences of Sb2S3 nanobars synthesised by organo-colloidal process on precursor concentrations and reaction times", *Journal of Crystal Growth* **354** (2012) 157–163.[#](https://doi.org/10.1016/j.jcrysgro.2012.06.003)
@@ -375,7 +375,7 @@ Summer Student  (June-Aug., 1987\)
 69. J. C. Johnson, S. P. Ahrenkiel, P. Dutta, and V. R. Bommisetty, "Nucleation and growth of crystalline grains in RF-sputtered TiO2 films", *Journal of Nanotechnology* **2009** (2009) 1–4.[#](https://doi.org/10.1155/2009/280797)
 
 70. Banasri Roy, Scott P. Ahrenkiel, and Paul Anton Fuierer, "Controlling the size and morphology of TiO 2 powder by molten and solid salt synthesis", *Journal of the American Ceramic Society* **91** (2008) 2455–2463.[#](https://doi.org/10.1111/j.1551-2916.2008.02456.x)
-
+<a id="nanotomo_paper"></a>
 71. S. P. AHRENKIEL, P. R. YU, J. E. MURPHY, J. M. NEDELJKOVIĆ, and B. S. DONOHOE, "Nanoparticle shape and configuration analysis by transmission electron tomography", *Journal of Microscopy* **230** (2008) 382–387.[#](https://doi.org/10.1111/j.1365-2818.2008.01996.x)
 
 72. M. S. Dabney, M. F. A. M. Vanhest, C. W. Teplin, S. P. Ahrenkiel, J D. Perkins, and D. S. Ginley, "Pulsed laser deposited nb doped TiO2 as a transparent conducting oxide", *Thin Solid Films* **516** (2008) 4133–4138.[#](https://doi.org/10.1016/j.tsf.2007.10.093)
@@ -383,6 +383,8 @@ Summer Student  (June-Aug., 1987\)
 73. C. H. Swartz, S. M. Durbin, P. A. Anderson, D. Carder, R. J. Reeves, S. Chandril, T. H. Myers, V. J. Kennedy, and S. P. Ahrenkiel, "Mg doping of InN and the use of yttrium‐stabilised zirconia substrates", *Physica Status Solidi c* **5** (2008) 508–510.[#](https://doi.org/10.1002/pssc.200777470)
 
 74. Y. Zhang, Z. Islam, Y. Ren, P. A. Parilla, S. P. Ahrenkiel, P. L. Lee, A. Mascarenhas, M. J. McNevin, I. Naumov, H.-X. Fu, X.-Y. Huang, and J. Li, "Zero thermal expansion in a nanostructured inorganic-organic hybrid crystal", *Physical Review Letters* **99** (2007) 1–4.[#](https://doi.org/10.1103/PhysRevLett.99.215901)
+<a id="grade_optimization_paper"></a>
+1. S. P. Ahrenkiel, M. W. Wanlass, J. J. Carapella, R. K. Ahrenkiel, S. W. Johnston, and L. M. Gedvilas, "Optimization of buffer layers for lattice-mismatched epitaxy of GaxIn1−xAs/InAsyP1−y double-heterostructures on InP", *Solar Energy Materials and Solar Cells* **91** (2007) 908–918.[#](https://doi.org/10.1016/j.solmat.2007.02.008)
 
 75. Nadica D. Abazović, Mirjana I. Čomor, Miroslav D. Dramićanin, Dragana J. Jovanović, S. Phillip Ahrenkiel, and Jovan M. Nedeljković, "Photoluminescence of anatase and rutile TiO 2 particles", *The Journal of Physical Chemistry B* **110** (2006) 25366–25370.[#](https://doi.org/10.1021/jp064454f)
 

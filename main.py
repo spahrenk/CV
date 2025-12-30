@@ -13,7 +13,7 @@ from pathlib import Path
 
 def generate_bibliography(
     bib_file: str = "pubs.bib",
-    csl_file: str = "elsev5.csl",
+    csl_file: str = "elsev.csl",
     output_file: str = "pubs.md",
     input_template: str = "temp_nocite.md",
     plain: bool = False,
@@ -151,8 +151,8 @@ def main():
 
     parser.add_argument(
         "-c", "--csl",
-        default="elsev5.csl",
-        help="Path to CSL citation style file (default: elsev5.csl)"
+        default="elsev.csl",
+        help="Path to CSL citation style file (default: elsev.csl)"
     )
 
     parser.add_argument(
