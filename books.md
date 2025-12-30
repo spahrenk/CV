@@ -1,0 +1,1 @@
+1. Richard K Ahrenkiel and S Phil Ahrenkiel, <u>Theory and methods of photovoltaic material characterization</u>, WORLD SCIENTIFIC, 2019.[#](https://doi.org/10.1142/11179)

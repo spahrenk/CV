@@ -1,0 +1,1 @@
+1. S. P. Ahrenkiel, "Diffraction and imaging of ordered semiconductors", in A. Mascarenhas (Ed.), <u>Spontaneous ordering in semiconductor alloys</u>, Kluwer Academic, 2002, pp. 195–233.[#](https://doi.org/10.1007/978-1-4615-0631-7_7)
