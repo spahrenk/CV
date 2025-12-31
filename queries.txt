@@ -36,6 +36,7 @@ Why doesn't article #29 (by Nan Zheng and S. Phillip Ahrenkiel) in papers.md hav
 When you are lising a URL, instead of a doi, (e.g., reference 25 in procs.md, "25. S. P. Ahrenkiel,..."), the link should display as "#", but it is showing the whole URL. Please fix elsev5.csl.
 
 There is not a period before the link in reference 25 of procs.md. Please fix elsev5.csl.
+
 Please change elsev5.csl so that book titles are underlined.
 
 For a "book section", the title of the book should be underlined. Please fix elsev5.csl.
@@ -48,3 +49,10 @@ python3 main.py -b chaps.bib -c elsev.csl -o chaps.md
 python3 main.py -b invents.bib -c elsev.csl -o invents.md
 
 When I view the output markdown files (e.g., papers.md) in a browser (Chrome), the "#" link text at the end of each citation is underlined. Can you fix that?
+
+How can I convert SPA_cv.md to pdf format?
+
+    pandoc SPA_CV.md -o SPA_CV.pdf \
+        --bibliography=pubs.bib \
+        --csl=elsev.csl \
+        --citeproc
