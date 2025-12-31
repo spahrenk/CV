@@ -92,9 +92,7 @@ Senior Scientist I (2001-2006)
 
 * I supported the NREL Bioenergy Center by imaging carbon nanotubes and cellulose fibers used as templates for nanoparticle self-assembly.
 
-* I used TEM [tomography](#nanotomo_paper) to elucidate the shapes and configurations of nanoparticles and ensembles.
-
-* I generated abundant data and theoretical [models](#ahrenkiel2002a) for TEM image contrast of partially ordered structures and modulated superlattices.  
+* I used TEM [tomography](#nanotomo_paper) to elucidate the shapes and configurations of nanoparticles and ensembles. 
 
 Scientist II (1998-2001)
 
@@ -106,7 +104,7 @@ Postdoctoral Scientist (1995–1998)
 
 * I supported Basic Energy Sciences projects by using TEM to study ordered domain structures  and composition modulation in epitaxial III-V semiconductor alloys and short-period superlattices. We discovered a strong nanowire formation driven by lateral modulation in short-period [superlattices](#lateral_mod_AlInAs_paper).
 
-* I developed dynamical electron-diffraction software routines for experiment simulation and computational analysis of ordered structures. 
+* I generated theoretical models for TEM image contrast of partially ordered structures and modulated superlattices. I developed dynamical electron-diffraction software routines for experiment simulation and computational analysis of ordered structures. 
 
 * I provided TEM analysis of a broad range single- and poly-crystalline thin-film materials, such as YBCO, ZnO, SiN, and Ge.
 
@@ -118,7 +116,7 @@ Graduate Research Assistant (1989–1991)
 *[Physics Department](https://physics.mines.edu/)*  
 Graduate Research Assistant (1989–1991)
 
-* I used X-ray diffraction to probe [structural](#wada1990)structural transitions during water intercalation in layered-silicate minerals. We applied similar methods to the copper-oxide [superconductors](#qiu1991), for which some forms also exhibit intercalation behavior.
+* I used X-ray diffraction to probe structural transitions during water intercalation in layered-silicate minerals. We applied similar methods to the copper-oxide superconductors, for which some forms also exhibit intercalation behavior.
 
 * The software to run the four-circle X-ray diffractometer was limited when I started. I wrote a programmable XRD data acquisition/analysis software package.
 
@@ -126,9 +124,9 @@ Graduate Research Assistant (1989–1991)
 *NA36 Experiment*  
 Summer Student  (June-Aug., 1987\)
 
-* I assisted with installation of a time-projection chamber used in fixed-target experiments on an [SPS](https://home.cern/science/accelerators/super-proton-synchrotron) beamline.
+* I assisted with installation of a time-projection chamber used in an SPS collider experiment.
 
-* I procured and installed [FASTBUS](https://www.sciencedirect.com/science/article/pii/014193318690030X) data-acquisition electronics, and wrote a communications test program.
+* I procured and installed FASTBUS data-acquisition electronics, and wrote a test program.
 
 **Courses Instructed**
 
@@ -175,13 +173,13 @@ Summer Student  (June-Aug., 1987\)
 
 * Dislocations and strain-relaxation analysis of epitaxial layers.
 
-* Materials and device characterization techniques.
+* Materials and device engineering and characterization.
 
 * Semiconductor crystal growth.
 
 * Vacuum system design and maintenance.
 
-* Scientific computer programming (C++, Objective C, Swift, MatLab, LabView, Igor, Digital Micrograph, Python); IDEs: VSCode, Xcode, CLion.
+* Scientific computer programming (C++, Objective C, Swift, MatLab, LabView, Igor, Digital Micrograph, Python); IDEs: VSCode, Xcode, CLion
 
 * Experiment automation; digital image processing; computational analysis and simulation.
 
@@ -222,18 +220,17 @@ Summer Student  (June-Aug., 1987\)
 * Richard K Ahrenkiel and S Phil Ahrenkiel, <u>Theory and methods of photovoltaic material characterization</u>, WORLD SCIENTIFIC, 2019.[#](https://doi.org/10.1142/11179)
 
 **Book Chapter**
-<a id="ahrenkiel2002a"></a>
 * S. P. Ahrenkiel, "Diffraction and imaging of ordered semiconductors", in A. Mascarenhas (Ed.), <u>Spontaneous ordering in semiconductor alloys</u>, Kluwer Academic, 2002, pp. 195–233.[#](https://doi.org/10.1007/978-1-4615-0631-7_7)
 
-**Intellectual Property**
+**Inventions**
 
-* Patent Application (NREL): K. Alberi, C.L. Stender, S.P. Ahrenkiel, “Strain Balanced Direct Bandgap Aluminum Indium Phosphide Quantum Wells for Light Emitting Diodes”, U.S, 2022/0271194, Aug. 2023\.
+* Kirstin Alberi, Christopher Leo STENDER, and Scott Phillip AHRENKIEL, "Patent application: Strain balanced direct bandgap aluminum indium phosphide quantum wells for light emitting diodes", (2022). <a href="https://patents.google.com/patent/US20220271194A1/en?oq=US20220271194" style="text-decoration: none;">#</a>
 
-* Patent Application (NREL): M. W. Wanlass , S. P. Ahrenkiel, “Method for Achieving Device-Quality, Lattice-Mismatched, Heteroepitaxial Active Layers”, U.S. 2006/0048700, Mar. 2006\.
+* Phil Ahrenkiel and Nathan Smaglik, "Invention disclosure: Plasma-enhanced metalorganic chemical vapor deposition of aluminum", (2017).
 
-* Invention Disclosure (SDSMT): Phil Ahrenkiel, Srujan Mishra, “Modified electrospinning process for controlled deposition of nanofibers by focused electric field”, Mar. 2013\.
+* Phil Ahrenkiel and Srujan Mishra, "Invention disclosure: Modified electrospinning process for controlled deposition of nanofibers by focused electric field", (2013).
 
-* Invention Disclosure (SDSMT): Phil Ahrenkiel, Nathan Smaglik, “Plasma-enhanced metalorganic chemical vapor deposition of aluminum”, July 2017\.
+* Mark W. Wanlass and S. Phillip Ahrenkiel, "Patent application: Method for achieving device-quality, lattice-mismatched, heteroepitaxial active layers", (2006) 1–12. <a href="https://patents.google.com/patent/US20060048700A1/en?oq=US20060048700A1" style="text-decoration: none;">#</a>
 
 
 **Publications**
@@ -448,9 +445,9 @@ Summer Student  (June-Aug., 1987\)
 103. S. P. Ahrenkiel, M. H. Bode, M. M. Al-Jassim, H. Luo, S. H. Xin, and J. K. Furdyna, "Microcharacterization of composition modulations in epitaxial ZnSe1-xTex", *Journal of Electronic Materials* **24** (1995) 319–325.[#](https://doi.org/10.1007/BF02659694)
 
 104. H. Luo, N. Samarth, S. W. Short, S. H. Xin, J. K. Furdyna, P. Ahrenkiel, M. H. Bode, and M. M. Al-Jassim, "First indications of spontaneous ordering in ZnSe0.50Te0.50 alloy", *Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures Processing, Measurement, and Phenomena* **12** (1994) 1140–1142.[#](https://doi.org/10.1116/1.587067)
-<a id="qiu1991"></a>
+
 105. C. H. Qiu, S. P. Ahrenkiel, N. Wada, and T. F. Ciszek, "X-ray diffraction and high-pressure raman scattering study of iodine-intercalated Bi2Sr2CaCu2O8+x", *Physica C: Superconductivity* **185-189** (1991) 825–826.[#](https://doi.org/10.1016/0921-4534(91)91636-I)
-<a id="wada1990"></a>
+
 106. N. Wada, D. R. Hines, and S. P. Ahrenkiel, "X-ray-diffraction studies of hydration transitions in na vermiculite", *Physical Review B* **41** (1990) 12895–12901.[#](https://doi.org/10.1103/PhysRevB.41.12895)
 
 **Proceedings**
