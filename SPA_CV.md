@@ -1,6 +1,7 @@
 **Phil Ahrenkiel**  
 address: Arvada, Colorado 80005  
-cell: 720-988-6627; e-mail: spahrenk@gmail.com
+cell: 720-988-6627  
+e-mail: spahrenk@gmail.com
 
 **Education**
 
