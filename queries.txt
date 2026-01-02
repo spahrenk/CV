@@ -56,3 +56,11 @@ How can I convert SPA_cv.md to pdf format?
         --bibliography=pubs.bib \
         --csl=elsev.csl \
         --citeproc
+
+All of the citations for my resume are in pubs.bib. Please create a markdown calle
+You are exporting the pages of the document as png images. I just want the figures saved, and inserted above the figure captions in e-diff.md so that they display properly. You have correctly found the figure captions. The figures are inserted in the document above their captions. There are 4 figures. Fig. 1 is on page 1. Fig. 2 and Fig. 3 are on page 2. Fig. 4 is on page 4
+
+Please place a link to the file Fig1.png in the document above the caption for Fig. 1 in e-diff.md, so that the figure displays properly. Do the same for Figs. 2, 3, and 4 (i.e., FigX.png appears above the caption for Fig. X).
+
+Can you center the images and scale them so that they display properly?
+Do you know why the equations are not

@@ -3,7 +3,7 @@
 **S. P. Ahrenkiel**
 *National Renewable Energy Laboratory, Golden, Colorado 80401*
 
-**REPORT ANALYTICAL MICROSCOPY TEAM**
+**REPORT  ANALYTICAL MICROSCOPY TEAM**
 **11 APRIL 1997**
 
 ## Abstract

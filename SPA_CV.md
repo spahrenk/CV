@@ -236,6 +236,9 @@ Summer Student  (June-Aug., 1987\)
 
 **Publications**
 
+1. Emily S. Kessler-Lewis, Stephen J. Polly, George T. Nelson, Michael A. Slocum, Nikhil Pokharel, Phil Ahrenkiel, and Seth M. Hubbard, "Development of MOVPE grown GaSb-on-GaAs interfacial misfit solar cells", *Journal of Applied Physics* **133** (2023).[#](https://doi.org/10.1063/5.0141163)
+
+2. Stephen Polly, Brandon Bogner, Anastasiia Fedorenko, Nikhil Pokharel, Phil Ahrenkiel, Subhra Chowdhury, Dhrubes Biswas, and Seth Hubbard, "Growth optimization of quantum-well-enhanced multijunction photovoltaics", *Cell Reports Physical Science* **4** (2023) 101432.[#](https://doi.org/10.1016/j.xcrp.2023.101432)
 <a id="precdiff_ord_paper"></a>
 1. Xavier Pasala, Nikhil Pokharel, Phil Ahrenkiel, Kirstin Alberi, Kamran Forghani, and Chris Stender, "Quantitative order‐parameter measurement in lattice‐mismatched AlInP using precession electron diffraction", *Journal of Microscopy* **284** (2021) 132–141.[#](https://doi.org/10.1111/jmi.13047)
 
