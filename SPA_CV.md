@@ -1,7 +1,6 @@
----
-title: ""
----
-**Phil Ahrenkiel**  
+*curriculum vitae*
+
+**Scott Phillip Ahrenkiel**  
 address: Arvada, Colorado 80005  
 cell: 720-988-6627  
 e-mail: spahrenk@gmail.com
