@@ -97,7 +97,7 @@ Senior Scientist I (2001-2006)
 
 Scientist II (1998-2001)
 
-* I worked closely with colloidal chemists to provide TEM characterization of semiconductor and metal nanoparticles. I supported aNREL projects involving a range of electronic materials, such as CuInSe<sub>2</sub>, Li:CoO<sub>2</sub>, VO<sub>x</sub>, BaSrTiO, and organic hybrids.
+* I worked closely with colloidal chemists to provide TEM characterization of semiconductor and metal nanoparticles. I supported NREL projects on various renewable-energy materials: CuInSe<sub>2</sub>, Li:CoO<sub>2</sub>, VO<sub>x</sub>, BaSrTiO, and organic hybrids.
 
 * I elucidated the dark-field imaging signatures of antiphase boundaries in ordered materials, and identified unique properties and physical origins of APBs in single-variant GaInAs.
 
