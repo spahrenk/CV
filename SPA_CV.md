@@ -1,5 +1,5 @@
 ---
-title: "Scott Phillip Ahrenkiel"
+title: ""
 ---
 **Phil Ahrenkiel**  
 address: Arvada, Colorado 80005  
