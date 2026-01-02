@@ -18,7 +18,7 @@ e-mail: spahrenk@gmail.com
 ***[SPAhrenTech](https://spahrentech.com/), Arvada, Colorado***  
 Physicist/Programmer (Oct. 2023-present)
 
-* I develop physics-based [software](https://github.com/orgs/SPAhrenTech/repositories) inspired by both my research interests and entertainment. I have vast experience in materials analysis using transmission electron microscopy, and I am deeply familiar with nano- materials, electronics, and characterization.
+* I develop physics-based [software](https://github.com/orgs/SPAhrenTech/repositories) inspired by both my research interests and entertainment.
 
 ***[Big Ladder Software](https://bigladdersoftware.com/), Denver, Colorado***  
 Computational Scientist (Jun. 2023-Oct. 2025\)
@@ -69,15 +69,15 @@ Associate Professor (Aug 2012-Jul 2017\)
 
 Assistant Professor (Aug 2006- Jul 2012\)
 
-* I developed the core nanocharacterization graduate [course](#nano_703), and wrote a complete series of instructional experiments for that course to utilize instrumentation across campus. I taught all core courses for the program, and created elective courses on [crystallography](#nano_704), [nanomaterials](#nano_705), [photovoltaics](#nano_708), and [nanoelectronics](#nano_705). I also offered several selected topics [courses](#https://spahrentech.com/notes/SelectedTopics) in support of graduate research. I created an undergrade nanoscience [course](#nano_401).
+* I developed a core graduate [course](#nano_703) on nanocharacterization, and wrote a complete series of instructional experiments for that course to utilize instrumentation across campus. I taught all core courses for the program, and created elective courses on [crystallography](#nano_704), [nanomaterials](#nano_705), [photovoltaics](#nano_708), and [nanoelectronics](#nano_705). I also offered several selected topics [courses](#https://spahrentech.com/notes/SelectedTopics) in support of graduate research. I created an undergrade nanoscience [course](#nano_401).
 
-* I managed the legacy Hitachi transmission electron microscope and trained users.  I added digital acquisition capability, and facilitated and coordinated access and training for student research throughout the state.
-
-* I proposed the acquisition of the high-resolution JEOL TEM instrument, and oversaw the design, excavation, and renovation of specialized laboratory space for mechanical isolation of the instrument.
+* I managed the legacy Hitachi transmission electron microscope and trained users.  I added digital acquisition capability, and facilitated and coordinated access and training for student research throughout the state. In 2009, we acquired a high-resolution JEOL TEM instrument. I oversaw the design, excavation, and renovation of specialized laboratory space for mechanical isolation of the instrument.
 
 * I supported and advised student research through a university/DOE national laboratory [partnership](#doe_partnership_2007). We modified a home-built metalorganic chemical vapor deposition system to synthesize epitaxial films of III-V compound semiconductors engineered for multi-junction photovoltaics. For over a decade, the MOCVD system was used for student research and external collaboration, with extensive hardware and [software](https://github.com/SPAhrenTech/MOCVD_Lib) customization. The inherint risks of MOCVD demanded attention to safety protocols and development of a hazard communication [system](https://github.com/SPAhrenTech/TGM_online).
 
 * We developed a computational method to extract alloy [compositions](https://doi.org/10.1017/S1431927612013761) of alloy films from energy-dispersive X-ray spectrometry. We also applied convergent-beam electron [diffraction](https://github.com/SPAhrenTech/CBED_fit) to metamorphic alloy films, to probe both composition and strain.
+
+* I advised graduate-student research on the syntehsis and characterization of metal-loaded electrospun nanofibers for catalysis applications.
 
 * Through a collaboration with [Vinča](https://www.vin.bg.ac.rs/en/) Institute, I investigated a broad range of metal and rare-earth oxide nanomaterials.
 
