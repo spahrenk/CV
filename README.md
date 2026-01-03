@@ -1,1 +1,1 @@
-Phil Ahrenkiel's [CV](https://spahrenk.github.io/CV/).
+Phil Ahrenkiel's [CV](https://spahrenk.github.io/CV.html).
