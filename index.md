@@ -25,7 +25,7 @@ Physicist/Programmer (Oct. 2023-present)
 ***[Big Ladder Software](https://bigladdersoftware.com/), Denver, Colorado***  
 Computational Scientist (Jun. 2023-Oct. 2025\)
 
-* My main project was development of a heat-pump-water-heater simulation [library](https://github.com/bigladder/HPWHsim) used by the California Energy Commission for compliance calculations. I generalized and restructured large segments of the code, with emphasis on physical rigor, while maintaining hundreds of unit and function tests. I implemented a formal data representation to allow external entry of manufacturer models as JSON. I added independently an interactive suite of graphical analysis apps using [Plotly Dash](https://plotly.com/), used to refine simulation parameters for new manufacturer models, and created a header-only [library](https://github.com/SPAhrenTech/unity) for a physical-units agnostic API.
+* My main project was development of a heat-pump-water-heater simulation [library](https://github.com/bigladder/HPWHsim) used for compliance [calculations](https://github.com/cse-sim/cse) by the [California Energy Commission](https://www.energy.ca.gov/). I generalized and restructured large segments of the code, with emphasis on physical rigor, while maintaining hundreds of unit and function tests. I implemented a formal data representation to allow external entry of manufacturer models as JSON. I added independently an interactive suite of graphical analysis apps using [Plotly Dash](https://plotly.com/), used to refine simulation parameters for new manufacturer models, and created a header-only [library](https://github.com/SPAhrenTech/unity) for a physical-units agnostic API.
 
 * I created a [data-conversion library](https://github.com/bigladder/CUACToolMiner) for users of the legacy California Utility Allowance Calculator Access databases to extract data via SQL.
 
@@ -79,7 +79,7 @@ Assistant Professor (Aug 2006- Jul 2012\)
 
 * We developed a computational method to extract alloy [compositions](https://doi.org/10.1017/S1431927612013761) of alloy films from energy-dispersive X-ray spectrometry. We also applied convergent-beam electron [diffraction](https://github.com/SPAhrenTech/CBED_fit) to metamorphic alloy films, to probe both composition and strain.
 
-* I advised graduate-student research on the syntehsis and characterization of metal-loaded electrospun nanofibers for catalysis applications.
+* I advised graduate-student research on the synthesis and characterization of metal-loaded electrospun nanofibers for [photocatalysis](#electrospin_paper) applications.
 
 * Through a collaboration with [Vinča](https://www.vin.bg.ac.rs/en/) Institute, I investigated a broad range of metal and rare-earth oxide nanomaterials.
 
@@ -363,7 +363,7 @@ Summer Student  (June-Aug., 1987\)
 60. Monika Rathi, S. P. Ahrenkiel, J. J. Carapella, and M. W. Wanlass, "A standards-based method for compositional analysis by energy dispersive x-ray spectrometry using multivariate statistical analysis: Application to multicomponent alloys", *Microscopy and Microanalysis* **19** (2013) 66–72.[#](https://doi.org/10.1017/S1431927612013761)
 
 61. Ivana Lj. Validžić, Nadica D. Abazović, S. Phillip Ahrenkiel, and Ivana A. Janković, "Structural and morphological dependences of Sb2S3 nanobars synthesised by organo-colloidal process on precursor concentrations and reaction times", *Journal of Crystal Growth* **354** (2012) 157–163.[#](https://doi.org/10.1016/j.jcrysgro.2012.06.003)
-
+<a id="electrospin_paper"></a>
 62. Srujan Mishra and S. Phillip Ahrenkiel, "Synthesis and characterization of electrospun nanocomposite TiO 2 nanofibers with ag nanoparticles for photocatalysis applications", *Journal of Nanomaterials* **2012** (2012) 902491.[#](https://doi.org/10.1155/2012/902491)
 
 63. Nadica Abazovic, Dragana Jovanovic, Milovan Stoiljkovic, Miodrag Mitric, Phillip Ahrenkil, Jovan Nedeljkovic, and Mirjana Comor, "Colloidal-chemistry based synthesis of quantized CuInS2/Se2 nanoparticles", *Journal of the Serbian Chemical Society* **77** (2012) 789–797.[#](https://doi.org/10.2298/JSC110420220A)
