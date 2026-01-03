@@ -33,7 +33,7 @@ Computational Scientist (Jun. 2023-Oct. 2025\)
 
 * I presented a requested in-depth comparison of evaluation methods for a C++ [interpolation library](https://github.com/bigladder/btwxt) and generated documentation.
 
-* I developed a [*boost* utility script](https://github.com/bigladder/kiva/blob/develop/scripts/update-boost.py) that swaps and minimizes boost versions.
+* I developed a utility [script](https://github.com/bigladder/kiva/blob/develop/scripts/update-boost.py) that swaps and minimizes *boost* versions.
 
 ***[Maptek](https://www.maptek.com/), Golden, Colorado***  
 Software Engineer (Apr. 2022-Feb. 2023\)
