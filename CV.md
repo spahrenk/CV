@@ -1,7 +1,3 @@
-layout: page
-title: "Phil Ahrenkiel's CV"
-permalink: https://spahrenk.github.io/CV
-
 *curriculum vitae*
 
 **Scott Phillip Ahrenkiel**  
