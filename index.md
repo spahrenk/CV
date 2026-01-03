@@ -47,7 +47,7 @@ Laser Alignment Technician (Oct. 2021-Apr. 2022\)
 
 * I worked in a manufacturing environment to perform alignment of new and repaired CO2 lasers for laser cutting/engraving systems. 
 
-***[South Dakota School of Mines](www.sdsmt.edu/), Rapid City, South Dakota***  
+***[South Dakota School of Mines and Technology](www.sdsmt.edu/), Rapid City, South Dakota***  
 *Nanoscience & Nanoengineering Ph.D. Program*  
 Professor (Aug 2017-Jul 2021\)
 
@@ -186,7 +186,9 @@ Summer Student  (June-Aug., 1987\)
 
 * Experiment automation; digital image processing; computational analysis and simulation.
 
-* Mac OS, Windows, and Linux operating-system experience.
+* [Machine Learning](https://coursera.org/share/c12e7c183acbf1d42d4046c234182877), [Supervised Learning](https://coursera.org/share/90e9b016b5b4188067f3e86d2fcf29a2), [Unsupervised Learning](https://coursera.org/share/b298af8a86247b665eeb784df30e3e02)
+
+* Mac OS, Windows, Linux.
 
 * Technical writing proficiency.
 
