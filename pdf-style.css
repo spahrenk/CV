@@ -1,0 +1,24 @@
+a {
+    color: #0000EE;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #551A8B;
+}
+
+/* Override unsupported properties with weasyprint-compatible alternatives */
+code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/* Remove unsupported gap and overflow-x by using margins instead */
+* {
+    -weasyprint-text-rendering: auto;
+}

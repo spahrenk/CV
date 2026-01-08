@@ -20,7 +20,7 @@ e-mail: spahrenk@gmail.com
 ***[SPAhrenTech](https://spahrentech.com/), Arvada, Colorado***  
 Physicist/Programmer (Oct. 2023-present)
 
-* I develop physics-based [software](https://github.com/orgs/SPAhrenTech/repositories) inspired by both my research interests and entertainment.
+* I develop physics-based [software](https://github.com/orgs/SPAhrenTech/repositories) inspired by my research interests and entertainment.
 
 ***[Big Ladder Software](https://bigladdersoftware.com/), Denver, Colorado***  
 Computational Scientist (Jun. 2023-Oct. 2025\)
@@ -29,9 +29,9 @@ Computational Scientist (Jun. 2023-Oct. 2025\)
 
 * I created a [data-conversion library](https://github.com/bigladder/CUACToolMiner) for users of the legacy California Utility Allowance Calculator Access databases to extract data via SQL.
 
-* I added load-groups and other requested features to an [energy-resilience simulation](https://github.com/bigladder/erin) library, used for catastrophic analysis of large-scale installations (e.g., military bases, universities).
+* I added a command-line interface and requested features to an [energy-resilience simulation](https://github.com/bigladder/erin) library, used for catastrophic analysis of large-scale installations (e.g., military bases, universities).
 
-* I presented a requested in-depth comparison of evaluation methods for a C++ [interpolation library](https://github.com/bigladder/btwxt) and generated documentation.
+* I formalized evaluation methods and generated documentation for a C++ interpolation [library](https://github.com/bigladder/btwxt).
 
 * I developed a utility [script](https://github.com/bigladder/kiva/blob/develop/scripts/update-boost.py) that swaps and minimizes *boost* versions.
 
@@ -53,13 +53,13 @@ Professor (Aug 2017-Jul 2021\)
 
 * My group worked on the optimization of ordered, metamorphic III-V films for red/amber LEDs. We demonstrated ordered/disordered epitaxial homostructures using a plasma-enhanced MOCVD [method](#pemocvd_paper). We measured the [strength of ordering](#precdiff_ord_paper) in these films by a precession-diffraction method, using automated alignment and acquistion. The patterns were refined to [dynamical simulations](https://github.com/SPAhrenTech/PrecDiffFit). 
 
-* Using [plasma-enhanced MOCVD](#PEMOCVD), we demonstrated epi-Al films on GaAs substrates and control of order/disorder in III-V alloy epilayers. 
+* Using PE-MOCVD, we demonstrated epi-Al films on GaAs substrates and control of order/disorder in III-V alloy epilayers. 
 
-* I contributed to a state-wide bio-imaging center supported through NSF. I advised graduate students on TEM analysis of mutated [cellular](#macrophage_paper) structures. I advised a [student](https://www.impactio.com/researcher/IsharaRatnayake) on the use TEM to reconstruct the localized biological features prepared by [ultramicrotomy].
+* I contributed to a state-wide bio-imaging center supported through NSF, and advised graduate students on TEM analysis of mutated [cellular](#macrophage_paper) structures. My [student](https://www.impactio.com/researcher/IsharaRatnayake) used TEM to reconstruct localized biological features prepared by [ultramicrotomy].
 
 * I created additional special-topics [courses](https://spahrentech.com/notes/SelectedTopics/index.html) to meet graduate-research needs.
 
-* I wrote a [Digital Micrograph](https://www.gatan.com/products/tem-analysis/digitalmicrograph-software) [script manager](https://github.com/SPAhrenTech/DM_Scripts) and supporting plug-ins to improve the user experience and facilitate data archiving for the JEM-2100 transmission electron microscope, and to integrate automation of techniques (e.g., [montaging](https://github.com/SPAhrenTech/DM_Scripts/blob/main/Scripts/Montage.s)).
+* I wrote a [Digital Micrograph](https://www.gatan.com/products/tem-analysis/digitalmicrograph-software) [script manager](https://github.com/SPAhrenTech/DM_Scripts) and supporting plug-ins to improve the user experience and facilitate data archiving for the JEM-2100 transmission electron microscope, and to integrate technique automation (e.g., [montaging](https://github.com/SPAhrenTech/DM_Scripts/blob/main/Scripts/Montage.s)).
 
 * I served on several academic and campus committees, including University Research, Promotion & Tenure, Risk Management, Parking Appeals.
 
@@ -71,7 +71,7 @@ Associate Professor (Aug 2012-Jul 2017\)
 
 Assistant Professor (Aug 2006- Jul 2012\)
 
-* I developed a core graduate [course](#nano_703) on nanocharacterization, and wrote a complete series of instructional experiments for that course to utilize instrumentation across campus. I taught all core courses for the program, and created elective courses on [crystallography](#nano_704), [nanomaterials](#nano_705), [photovoltaics](#nano_708), and [nanoelectronics](#nano_705). I also offered several selected topics [courses](#https://spahrentech.com/notes/SelectedTopics) in support of graduate research. I created an undergrade nanoscience [course](#nano_401).
+* I developed a core graduate [course](#nano_703) on nanocharacterization, and wrote a complete series of instructional experiments for that course to utilize instrumentation across campus. I taught all core courses for the program, and created elective courses on [crystallography](#nano_704), [nanomaterials](#nano_705), [photovoltaics](#nano_708), and [nanoelectronics](#nano_705). I also offered several selected topics [courses](https://spahrentech.com/notes/SelectedTopics/index.html) in support of graduate research. I created an undergrade nanoscience [course](#nano_401).
 
 * I managed the legacy Hitachi transmission electron microscope and trained users.  I added digital acquisition capability, and facilitated and coordinated access and training for student research throughout the state. In 2009, we acquired a high-resolution JEOL TEM instrument. I oversaw the design, excavation, and renovation of specialized laboratory space for mechanical isolation of the instrument.
 
@@ -91,7 +91,7 @@ Senior Scientist I (2001-2006)
 
 * I designed and constructed a tunable light source to bias tandem solar cells during testing. 
 
-* My team studied the recrystallization phase-change kinetics of hydrogenated amorphous Si on glass substrates for low-cost photovoltaic applications. Time-series data were
+* My team studied the [recrystallization](https://www.youtube.com/watch?v=GytujQq_0c8) phase-change kinetics of hydrogenated amorphous Si on glass substrates for low-cost photovoltaic applications.
 
 * I supported the NREL Bioenergy Center by imaging carbon nanotubes and cellulose fibers used as templates for nanoparticle self-assembly.
 
@@ -449,7 +449,7 @@ Summer Student  (June-Aug., 1987\)
 101. J. M. Millunchick, R. D. Twesten, S. R. Lee, D. M. Follstaedt, E. D. Jones, S. P. Ahrenkiel, Y. Zhang, H. M. Cheong, and A. Mascarenhas, "Spontaneous lateral composition modulation in AlAs/InAs short period superlattices via the growth front", *Journal of Electronic Materials* **26** (1997) 1048–1052.
 
 102. S. P. Ahrenkiel, S. H. Xin, P. M. Reimer, J. J. Berry, H. Luo, S. Short, M. Bode, M. Al-Jassim, J. R. Buschert, and J. K. Furdyna, "Self-organized formation of compositionally modulated ZnSe1-xTex superlattices", *Physical Review Letters* **75** (1995) 1586–1589.[#](https://doi.org/10.1103/PhysRevLett.75.1586)
-
+<a id="comp_mod_ZST"></a>
 103. S. P. Ahrenkiel, M. H. Bode, M. M. Al-Jassim, H. Luo, S. H. Xin, and J. K. Furdyna, "Microcharacterization of composition modulations in epitaxial ZnSe1-xTex", *Journal of Electronic Materials* **24** (1995) 319–325.[#](https://doi.org/10.1007/BF02659694)
 
 104. H. Luo, N. Samarth, S. W. Short, S. H. Xin, J. K. Furdyna, P. Ahrenkiel, M. H. Bode, and M. M. Al-Jassim, "First indications of spontaneous ordering in ZnSe0.50Te0.50 alloy", *Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures Processing, Measurement, and Phenomena* **12** (1994) 1140–1142.[#](https://doi.org/10.1116/1.587067)
