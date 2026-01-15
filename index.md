@@ -7,23 +7,23 @@ e-mail: spahrenk@gmail.com
 
 **Education**
 
-1995	*Ph.D., Physics*, ***[University of Colorado](https://www.colorado.edu/)***, Boulder, Colorado  
+Completed Dec. 1995	*Ph.D., Physics*, ***[University of Colorado](https://www.colorado.edu/)***, Boulder, Colorado  
 	Thesis Title: Phase Separation and Atomic Ordering in Epitaxial Semiconductor Alloys Studied by Transmission Electron Microscopy[#](https://www.proquest.com/openview/7ab0a62fdab6c5a3cd76709d1e2b811d/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
-1991	*M. S., Physics*, ***[Colorado School of Mines](https://www.mines.edu/)***, Golden, Colorado  
+Completed Dec. 1991	*M. S., Physics*, ***[Colorado School of Mines](https://www.mines.edu/)***, Golden, Colorado  
 	Thesis Title: Intercalation Processes in Layered Silicates and High-Tc Superconducting Oxides Studied by X-Ray Diffraction[#](https://hdl.handle.net/11124/176275)
 
-1987	*B. S., Engineering Physics*, ***[University of Colorado](https://www.colorado.edu/)***, Boulder, Colorado
+Completed Dec. 1987	*B. S., Engineering Physics*, ***[University of Colorado](https://www.colorado.edu/)***, Boulder, Colorado
 
 **Employment**
 
-***[SPAhrenTech](https://spahrentech.com/), Arvada, Colorado***  
-Physicist/Programmer (Oct. 2023-present)
+***[eQuillTech](https://equilltech.com/), Arvada, Colorado***  
+Physicist/Programmer (Oct 2025-present)
 
 * I develop physics-based [software](https://github.com/orgs/SPAhrenTech/repositories) inspired by my research interests and entertainment.
 
 ***[Big Ladder Software](https://bigladdersoftware.com/), Denver, Colorado***  
-Computational Scientist (Jun. 2023-Oct. 2025\)
+Computational Scientist (Jun 2023-Oct 2025\)
 
 * My main project was development of a heat-pump-water-heater simulation [library](https://github.com/bigladder/HPWHsim) used for compliance [calculations](https://github.com/cse-sim/cse) by the [California Energy Commission](https://www.energy.ca.gov/). I generalized and restructured large segments of the code, with emphasis on physical rigor, while maintaining hundreds of unit and function tests. I implemented a formal data representation to allow external entry of manufacturer models as JSON. I added independently an interactive suite of graphical analysis apps using [Plotly Dash](https://plotly.com/), used to refine simulation parameters for new manufacturer models, and created a header-only [library](https://github.com/SPAhrenTech/unity) for a physical-units agnostic API.
 
@@ -36,14 +36,14 @@ Computational Scientist (Jun. 2023-Oct. 2025\)
 * I developed a utility [script](https://github.com/bigladder/kiva/blob/develop/scripts/update-boost.py) that swaps and minimizes *boost* versions.
 
 ***[Maptek](https://www.maptek.com/), Golden, Colorado***  
-Software Engineer (Apr. 2022-Feb. 2023\)
+Software Engineer (Apr 2022-Feb 2023\)
 
 * I provided maintenance on [Vulcan](https://www.maptek.com/products/vulcan/) software, fixing defects and creating unit tests, using a JIRA-based review system, with Mercurial for version control.
 
 * In response to a user story, I added the ability to import large, [geo-tagged TIFF files](https://www.usgs.gov/global-fiducials-library-data-access-portal/data), by expanding the extant libTIFF driver and developing a novel [algorithm](https://github.com/SPAhrenTech/Topo) to generate optimized, topographical triangulations with variable resolution.
 
 ***[Epilog](https://www.epiloglaser.com/), Golden, Colorado***  
-Laser Alignment Technician (Oct. 2021-Apr. 2022\)
+Laser Alignment Technician (Oct 2021-Apr 2022\)
 
 * I worked in a manufacturing environment to perform alignment of new and repaired CO2 lasers for laser cutting/engraving systems. 
 
@@ -85,7 +85,7 @@ Assistant Professor (Aug 2006- Jul 2012\)
 
 ***[National Renewable Energy Laboratory](https://www.nrel.gov/), Golden, Colorado***  
 *[National Center for Photovoltaics](https://www.nrel.gov/pv/research/national-center-for-photovoltaics)*  
-Senior Scientist I (2001-2006)
+Senior Scientist I (Sep 2001-Jul 2006)
 
 * I identified the optimization criteria of compositional [grades](#grade_optimization_paper) used for metamorphic, semiconductor heterostructures with world-record photovoltaic and thermophotovoltaic device efficiencies. Based on experimental investigations, I developed a detailed physical model of the relaxation behavior in the metamorphic grades that enable this technology.
 
@@ -97,13 +97,13 @@ Senior Scientist I (2001-2006)
 
 * I used TEM [tomography](#nanotomo_paper) to elucidate the shapes and configurations of nanoparticles and ensembles. 
 
-Scientist II (1998-2001)
+Scientist II (Aug 1998-Sep 2001)
 
 * I worked closely with colloidal chemists to provide TEM characterization of semiconductor and metal nanoparticles. I supported NREL projects on various renewable-energy materials: CuInSe<sub>2</sub>, Li:CoO<sub>2</sub>, VO<sub>x</sub>, BaSrTiO, and organic hybrids.
 
 * I elucidated the dark-field imaging signatures of antiphase boundaries in ordered materials, and identified unique properties and physical origins of APBs in single-variant GaInAs.
 
-Postdoctoral Scientist (1995–1998)
+Postdoctoral Scientist (Jan 1995–Aug 1998)
 
 * I supported Basic Energy Sciences projects by using TEM to study ordered domain structures  and composition modulation in epitaxial III-V semiconductor alloys and short-period superlattices. We discovered a strong nanowire formation driven by lateral modulation in short-period [superlattices](#lateral_mod_AlInAs_paper).
 
@@ -111,13 +111,13 @@ Postdoctoral Scientist (1995–1998)
 
 * I provided TEM analysis of a broad range single- and poly-crystalline thin-film materials, such as YBCO, ZnO, SiN, and Ge.
 
-Graduate Research Assistant (1989–1991)
+Graduate Research Assistant (Aug 1991–Dec 1995)
 
 * I enrolled in the Physics Ph.D. program at CU, Boulder, an received GRA support at NREL, to study atomic ordering  phenomena in II-VI and III-V epitaxial semiconductor alloys. Spontaneous ordering has potentially useful influences on the optoelectronic properties of these materials. In collaboration with the University of Notre Dame, we discovered a novel form of [composition modulation](#comp_mod_ZST) in <nobr>ZnSe<sub>1-x</sub>Te<sub>x</sub></nobr> films that highlighted growth instabilities.
 
 ***[Colorado School of Mines](https://www.mines.edu/), Golden, Colorado***  
 *[Physics Department](https://physics.mines.edu/)*  
-Graduate Research Assistant (1989–1991)
+Graduate Research Assistant (Jan 1989–Aug 1991)
 
 * I used X-ray diffraction to probe structural transitions during water intercalation in layered-silicate minerals. We applied similar methods to the copper-oxide superconductors, for which some forms also exhibit intercalation behavior.
 
@@ -158,13 +158,13 @@ Summer Student  (June-Aug., 1987\)
 
 ***[Front Range Community College](www.frontrange.edu/)***
 
-* PHY 211-Calculus-Based Physics II (5 cr): FA05
+* PHY 211-Calculus-Based Physics I (5 cr): FA05
 
 * PHY 212-Calculus-Based Physics II (5 cr): SP(00, 01, 04\)
 
 ***[Community College of Denver](https://www.ccd.edu/)*** 
 
-* PHY 105-Conceptual Physics (3 cr): SP90\~FA94
+* PHY 105-Conceptual Physics (3 cr): SP91, FA91, FA94
 
 **Special Skills and Training**
 
